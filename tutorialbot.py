@@ -67,5 +67,5 @@ intents = discord.Intents.default()
 intents.members = True
 
 client = TutorialBot()
-client.run('OTgwNTk1NzI3MjQxNzE1ODAz.Guhs9w.a4s9LxBEr2shszPavhfUSR1b8DGOqdkkxqpzgo')
+client.run('')
 
